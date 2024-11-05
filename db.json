@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "name": "demo update 2",
+      "quantity": "222",
+      "creator": "admin 2",
+      "id": "bb38"
+    },
+    {
+      "name": "demo 2",
+      "quantity": "222",
+      "creator": " admin 2",
+      "id": "d96a"
+    }
+  ]
+}
